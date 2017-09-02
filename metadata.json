@@ -1,0 +1,15 @@
+{
+  "name": "afuentescr-trialmodule",
+  "version": "0.1.0",
+  "author": "afuentescr",
+  "summary": "A trial module",
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": "https://github.com/afuentescr/trialmodule.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
